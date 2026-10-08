@@ -1,4 +1,4 @@
-package org.nodens2k.tin.validation;
+package nl.captin.tin;
 
 import java.util.Arrays;
 import java.util.Collection;

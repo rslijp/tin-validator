@@ -1,4 +1,4 @@
-package org.nodens2k.tin.validation;
+package nl.captin.tin;
 
 /**
  * The different types of TIN to be validated.
