@@ -1,4 +1,4 @@
-import {AustriaTinValidator} from "./validators/countries/AustriaTinValidator";
+import {AustriaTinValidator} from "./countries/AustriaTinValidator";
 
 const COUNTRIES = [
     AustriaTinValidator
