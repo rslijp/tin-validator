@@ -34,6 +34,7 @@ jobs:
         with:
           node-version: '24'
           cache: 'npm'
+          cache-dependency-path: 'tin-validator-javascript/package-lock.json'
 
       - name: Show versions
         run: |
